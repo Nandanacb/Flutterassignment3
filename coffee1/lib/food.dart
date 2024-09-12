@@ -97,7 +97,7 @@ class GrideViewBuilderExamples extends StatelessWidget{
                   Container(
                     width: double.infinity,
                     height: 100,
-                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(26),color: Colors.blue,image: DecorationImage(image: AssetImage(myfoodList[index]["image"]),
+                    decoration: BoxDecoration(borderRadius: BorderRadius.circular(10),color: Colors.blue,image: DecorationImage(image: AssetImage(myfoodList[index]["image"]),
                     fit: BoxFit.cover)),
                      
                   
